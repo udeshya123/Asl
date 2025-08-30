@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-selfcheck.json
+pip-log.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files
+data/
+static/
+Letters/
+resources/
+
+# Archives
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Other
+ss/
+delete.*
