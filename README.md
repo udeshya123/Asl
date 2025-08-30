@@ -45,7 +45,7 @@ pip list
 ### Step 5: Start the Application
 Run the following command to start the application:
 ```bash
-python app.py
+python web_app.py
 ```
 
 ### Step 6: Use the Application
